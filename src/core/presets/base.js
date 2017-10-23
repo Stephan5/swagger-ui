@@ -134,7 +134,6 @@ export default function() {
     jsonSchemaComponents,
     auth,
     ast,
-    SplitPaneModePlugin,
     downloadUrlPlugin,
     deepLinkingPlugin
   ]
