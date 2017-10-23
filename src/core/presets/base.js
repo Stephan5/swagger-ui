@@ -8,7 +8,6 @@ import ast from "core/plugins/ast"
 import swaggerJs from "core/plugins/swagger-js"
 import auth from "core/plugins/auth"
 import util from "core/plugins/util"
-import SplitPaneModePlugin from "core/plugins/split-pane-mode"
 import downloadUrlPlugin from "core/plugins/download-url"
 import deepLinkingPlugin from "core/plugins/deep-linking"
 
